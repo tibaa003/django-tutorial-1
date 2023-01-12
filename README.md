@@ -28,6 +28,7 @@ Hvordan sender man variabler og annen informasjon over til templaten fra viewet?
     lager en dictonary på slutten av return render. Altså return render(response, ...., {"navn":variabel})
 
 Hva menes med Context?
+    Når vi bruker enn html fil flere ganger ved å legge den til i andre html filer? Hukser ikke å ha hørt ordet
 
 Hva menes med begrepet “Business logic”?
-
+    Virker som logikken bak hvordan man henter data fra en database. Karen sa ikke dette i videoen, ong.
